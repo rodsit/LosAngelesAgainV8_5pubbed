@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragsToberlinubahnabc">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_marginTop="1sp"
+    android:layout_marginLeft="1sp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/mainbeij">
+ <include layout="@layout/titlebar1" /> 
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragsTop">
+
+<FrameLayout
+   xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="match_parent"
+   android:layout_height="match_parent">
+   <ImageView android:id="@+id/imageView"
+      android:layout_width="match_parent"
+      android:visibility="visible"
+      android:layout_height="match_parent"
+      android:src="@drawable/menu7error"
+      android:scaleType="matrix">
+   </ImageView>
+</FrameLayout> 
+</LinearLayout>
+
+</LinearLayout>
+</LinearLayout>

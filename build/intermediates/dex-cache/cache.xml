@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e076643345b1114dd5eadd708715d6ab014ca1bb">
+        <dex dex="/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/pre-dexed/debug/instant-run_7aa500c638e7ee7bb8c38f8db4192ceb54fcd4bc.jar" />
+    </item>
+    <item
+        jar="/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f33bdee45bc22c76b599cc3b68bae1210ce2e9df">
+        <dex dex="/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/pre-dexed/debug/classes_4c0edd58882610de6d0bb5cf630ce383be68378b.jar" />
+    </item>
+
+</items>

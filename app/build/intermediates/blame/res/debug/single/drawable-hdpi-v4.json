@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_1_selected.png",
+        "source": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/src/main/res/drawable-hdpi/btn_1_selected.png"
+    },
+    {
+        "merged": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_2_selected.png",
+        "source": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/src/main/res/drawable-hdpi/btn_2_selected.png"
+    },
+    {
+        "merged": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_3_pressed.png",
+        "source": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/src/main/res/drawable-hdpi/btn_3_pressed.png"
+    },
+    {
+        "merged": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_bg_selected.9.png",
+        "source": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/src/main/res/drawable-hdpi/btn_bg_selected.9.png"
+    },
+    {
+        "merged": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_3.png",
+        "source": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/src/main/res/drawable-hdpi/btn_3.png"
+    },
+    {
+        "merged": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_3_selected.png",
+        "source": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/src/main/res/drawable-hdpi/btn_3_selected.png"
+    },
+    {
+        "merged": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_bg_pressed.9.png",
+        "source": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/src/main/res/drawable-hdpi/btn_bg_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_2_pressed.png",
+        "source": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/src/main/res/drawable-hdpi/btn_2_pressed.png"
+    },
+    {
+        "merged": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_1_pressed.png",
+        "source": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/src/main/res/drawable-hdpi/btn_1_pressed.png"
+    }
+]

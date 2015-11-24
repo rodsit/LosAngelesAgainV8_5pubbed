@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      android:installLocation="auto" android:versionName="Los Angeles Tube" android:versionCode="8" package="los.angeles.subway.map">
+   <application android:icon="@drawable/icon"
+          android:label="@string/app_name"
+       android:theme="@android:style/Theme.NoTitleBar"
+>
+                        
+       
+       <activity
+            android:name="Menu1_Errora"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>            
+        </activity> 
+               <activity
+            android:name="Menu1_error"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>            
+        </activity> 
+                       <activity
+            android:name="Menu2_error"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>            
+        </activity>
+                       <activity
+            android:name="Menu3_error"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>            
+        </activity>
+                       <activity
+            android:name="Menu4_error"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>            
+        </activity>
+                       <activity
+            android:name="Menu5_error"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>            
+        </activity>
+                       <activity
+            android:name="Menu6_error"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>            
+        </activity>
+                       <activity
+            android:name="Menu7_error"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>            
+        </activity>  
+                               <activity
+            android:name="Menu8_error"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>            
+        </activity>     
+                               <activity
+            android:name="Menu9_error"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>            
+        </activity>     
+                <activity android:name=".Phone_Numbers" 
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            />
+               <activity android:name=".RSSFeeder" 
+ 
+                  android:screenOrientation="portrait"
+                  android:theme="@android:style/Theme.NoTitleBar"
+                  android:label="@string/app_name">
+        
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+                <activity
+            android:name=".WebCamShow"
+            android:theme="@android:style/Theme.NoTitleBar"
+          
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+                                <activity
+            android:name=".Menu5"
+            android:theme="@android:style/Theme.NoTitleBar"
+          
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+                                <activity
+            android:name=".Menu6"
+            android:theme="@android:style/Theme.NoTitleBar"
+          
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+                        <activity
+            android:name=".Menu9"
+            android:theme="@android:style/Theme.NoTitleBar"
+          
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+                                        <activity
+            android:name=".Menu10"
+            android:theme="@android:style/Theme.NoTitleBar"
+          
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+<activity
+            android:name=".Menu11"
+            android:theme="@android:style/Theme.NoTitleBar"          
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+</activity>
+<activity
+            android:name=".Menu12"
+            android:theme="@android:style/Theme.NoTitleBar"          
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+</activity>
+<activity
+            android:name=".Menu13"
+            android:theme="@android:style/Theme.NoTitleBar"          
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+</activity>
+<activity
+            android:name=".Menu14"
+            android:theme="@android:style/Theme.NoTitleBar"          
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+</activity>
+<activity
+            android:name=".Menu15"
+            android:theme="@android:style/Theme.NoTitleBar"          
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+</activity>
+<activity
+            android:name=".Menu16"
+            android:theme="@android:style/Theme.NoTitleBar"          
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+</activity>
+<activity
+            android:name=".Menu17"
+            android:theme="@android:style/Theme.NoTitleBar"          
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+</activity>
+<activity
+            android:name=".Menu18"
+            android:theme="@android:style/Theme.NoTitleBar"          
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+</activity>
+<activity
+            android:name=".Menu19"
+            android:theme="@android:style/Theme.NoTitleBar"          
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+</activity>
+<activity
+            android:name=".Menu20"
+            android:theme="@android:style/Theme.NoTitleBar"          
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+</activity>
+
+                       <activity
+            android:name=".Menu1"
+           android:theme="@android:style/Theme.NoTitleBar"
+            android:screenOrientation="portrait"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" /> 
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>   
+                               <activity
+            android:name=".Menu8"
+           android:theme="@android:style/Theme.NoTitleBar"
+            android:screenOrientation="portrait"
+            android:label="" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+               <activity
+            android:name=".Menu2_Errora"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity> 
+         <activity android:name=".Dashboard"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.old" />
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Menu7"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+               android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+                <activity android:name=".Menu3"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+               android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+                <activity android:name=".Menu4"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+               android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+                  <activity android:name=".Menu2"
+                      android:screenOrientation="portrait"
+                      android:theme="@android:style/Theme.NoTitleBar"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+         </activity>
+    </application>
+    <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="21"/>
+</manifest> 

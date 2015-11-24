@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#acb9ca"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/imageButton6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:cropToPadding="true"
+            android:src="@drawable/back_button" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.07" >
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="20dp"
+            android:lines="2"
+            android:text="Tee Bookings 0657081003"
+            android:textColor="#ffffff"
+            android:textSize="16dip" />
+
+        <ImageButton
+            android:id="@+id/imageButton1"
+            android:onClick="Golf1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/textView1"
+            android:layout_toRightOf="@+id/textView1"
+            android:src="@drawable/call_now_32" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignRight="@+id/textView1"
+            android:layout_below="@+id/imageButton1"
+            android:layout_marginTop="21dp"
+            android:lines="2"
+            android:text="Pitch and Put 0657081603"
+            android:textColor="#ffffff"
+            android:textSize="16dip" />
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:onClick="Golf2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/textView2"
+            android:layout_toRightOf="@+id/textView1"
+            android:src="@drawable/call_now_32" />         
+        
+    </RelativeLayout>
+    </ScrollView>
+</LinearLayout>

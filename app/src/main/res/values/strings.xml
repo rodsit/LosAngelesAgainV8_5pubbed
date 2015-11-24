@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Los Angeles Maps</string>
+        <string name="web_cam">4</string>
+        <string name="web_cam2">5</string>
+        <string name="web_cam3">6</string>
+         <string name="menu_twitter">9</string>
+            <string name="menu_game">7</string>
+            <string name="menu_3">8</string> 
+                <string name="menu_map">1</string>
+                    <string name="menu_metro">2</string>
+                        <string name="menu_places">3</string>
+                        <string name="menu_10">10</string>
+<string name="menu_11">11</string>
+<string name="menu_12">12</string>
+<string name="menu_13">13</string>
+<string name="menu_14">14</string>
+<string name="menu_15">15</string>
+<string name="menu_16">16</string>
+<string name="menu_17">17</string>
+<string name="menu_18">18</string>
+<string name="menu_19">19</string>
+<string name="menu_20">20</string>
+                        <string name="tryagainlater">Whoops - Try later</string>
+                         <string name="downloading">downloading live pic</string>
+<string name="menu7">getting SF skyline pic</string>                         
+<string name="menu8">fetching SanFranciscoPeaks.org pic</string>
+<string name="menu9">getting live Bay Bridge cam</string>
+<string name="menu10">Piccadilly Circus</string>
+<string name="menu11">Oxford Circus</string>
+<string name="menu12">Trafalgar Square</string>
+<string name="menu13">Marble Arch</string>
+<string name="menu14">Baker Street Stn</string>
+<string name="menu15">Regent Street / Conduit St</string>
+<string name="menu16">Kensington High St</string>
+<string name="menu17">Knightsbridge</string>
+<string name="menu18">Paddington</string>
+<string name="menu19">Hyde Park Corner</string>
+<string name="menu20">M1 start at Brent</string>
+</resources>

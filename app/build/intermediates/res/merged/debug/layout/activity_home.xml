@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/home_root"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:background="#ffffff"
+    android:layout_height="fill_parent"> 
+ 
+       <LinearLayout
+            android:background="#ffffff"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="200dip"
+            android:layout_weight="1">
+            <Button android:id="@+id/home_btn_schedule"
+                style="@style/HomeButton"
+                android:layout_marginTop="150dip"
+                android:onClick="onbtn1Click"
+                android:height="100dip"
+                android:drawableTop="@drawable/home_btn_1"/>
+            <Button android:id="@+id/home_btn_map"
+                style="@style/HomeButton"
+                android:onClick="Menu4_Method"
+                android:layout_marginTop="150dip"
+                android:height="100dip"
+                android:drawableTop="@drawable/home_btn_2"/>
+        </LinearLayout>
+    </LinearLayout>
+
+

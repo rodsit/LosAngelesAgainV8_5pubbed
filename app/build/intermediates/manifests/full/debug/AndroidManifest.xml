@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="los.angeles.subway.map"
+    android:installLocation="auto"
+    android:versionCode="8"
+    android:versionName="Los Angeles Tube" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar" >
+        <activity
+            android:name="los.angeles.subway.map.Menu1_Errora"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu1_error"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu2_error"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu3_error"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu4_error"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu5_error"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu6_error"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu7_error"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu8_error"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu9_error"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Phone_Numbers"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="los.angeles.subway.map.RSSFeeder"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.WebCamShow"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu5"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu6"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu9"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu10"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu11"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu12"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu13"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu14"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu15"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu16"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu17"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu18"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu19"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu20"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu1"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu8"
+            android:label=""
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu2_Errora"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.oldMAIN" />
+
+                <category android:name="android.intent.category.oldLAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Dashboard"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.old" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu7"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu3"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu4"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="los.angeles.subway.map.Menu2"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAINold" />
+
+                <category android:name="android.intent.category.LAUNCHERold" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

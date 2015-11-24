@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/res/merged/debug/drawable-large-v4/title_logo_default.png",
+        "source": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/src/main/res/drawable-large/title_logo_default.png"
+    },
+    {
+        "merged": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/res/merged/debug/drawable-large-v4/title_logo.xml",
+        "source": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/src/main/res/drawable-large/title_logo.xml"
+    },
+    {
+        "merged": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/res/merged/debug/drawable-large-v4/title_logo_pressed.png",
+        "source": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/src/main/res/drawable-large/title_logo_pressed.png"
+    },
+    {
+        "merged": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/res/merged/debug/drawable-large-v4/title_logo_selected.png",
+        "source": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/src/main/res/drawable-large/title_logo_selected.png"
+    },
+    {
+        "merged": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/build/intermediates/res/merged/debug/drawable-large-v4/icon.png",
+        "source": "/Users/Will/Desktop/workspace2/LosAngelesAgainV8_5pubbed/app/src/main/res/drawable-large/icon.png"
+    }
+]

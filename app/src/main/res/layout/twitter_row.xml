@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/widget30"
+	android:layout_width="fill_parent" android:layout_height="wrap_content"
+	android:padding="2dp" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    	<TextView
+	    android:id="@+id/title_textview"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginRight="5dp"
+	    android:layout_marginTop="5dp"
+	    android:layout_toRightOf="@+id/thumb_imageview"
+	    android:textColor="#000000"
+	    android:textStyle="normal"
+	    android:textSize="12dip" >
+
+	</TextView>
+	<TextView
+	    android:id="@+id/pubdatey_textview"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_alignBottom="@+id/thumb_imageview"
+	    android:layout_below="@+id/title_textview"
+	    android:layout_marginRight="2dp"
+	    android:layout_toRightOf="@+id/thumb_imageview"
+	    android:textColor="#000000"
+	    android:textSize="12dip"  >
+	</TextView>
+	<ImageView android:id="@+id/thumb_imageview" android:layout_width="wrap_content"
+		android:layout_height="60dip" android:layout_marginRight="2dp"
+		android:layout_marginTop="20dp" android:layout_marginBottom="20dp"
+		android:layout_centerVertical="true" android:layout_alignParentLeft="true"
+		android:minWidth="48dp"
+		android:minHeight="48dp" android:maxWidth="48dp" android:maxHeight="48dp">
+	</ImageView>
+</RelativeLayout>

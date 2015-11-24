@@ -1,0 +1,210 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* .idea/
+* .idea/.name
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/dictionaries/
+* .idea/dictionaries/will.xml
+* .idea/encodings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/scopes/
+* .idea/scopes/scope_settings.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* LosAngelesAgainV8_5pubbed.iml
+* out/
+* out/production/
+* out/production/LondonBusTubeNew_PubbedV5/
+* out/production/LondonBusTubeNew_PubbedV5/LondonBusTubeNew_PubbedV5.afp.apk
+* out/production/LondonBusTubeNew_PubbedV5/LondonBusTubeNew_PubbedV5.apk
+* out/production/LondonBusTubeNew_PubbedV5/LondonBusTubeNew_PubbedV5.apk.res
+* out/production/LondonBusTubeNew_PubbedV5/LondonBusTubeNew_PubbedV5.apk.res.release
+* out/production/LondonBusTubeNew_PubbedV5/LondonBusTubeNew_PubbedV5.unaligned.apk
+* out/production/LondonBusTubeNew_PubbedV5/LondonBusTubeNew_PubbedV5.unsigned.apk
+* out/production/LondonBusTubeNew_PubbedV5/classes.dex
+* out/production/LondonBusTubeNew_PubbedV5/com/
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Application.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/BuildConfig.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Dashboard.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu1.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu10$1.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu10$ImageDownloader.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu10.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu11$1.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu11$ImageDownloader.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu11.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu12$1.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu12$ImageDownloader.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu12.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu13$1.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu13$ImageDownloader.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu13.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu14$1.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu14$ImageDownloader.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu14.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu15$1.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu15$ImageDownloader.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu15.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu16$1.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu16$ImageDownloader.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu16.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu17$1.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu17$ImageDownloader.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu17.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu18$1.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu18$ImageDownloader.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu18.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu19$1.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu19$ImageDownloader.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu19.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu1_Errora.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu1_Errorb$DrawThread.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu1_Errorb$Touch.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu1_Errorb.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu1_error.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu2.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu20$1.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu20$ImageDownloader.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu20.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu2_Errora.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu2_Errorb$DrawThread.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu2_Errorb$Touch.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu2_Errorb.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu2_error.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu3.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu3_error.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu4.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu4_error.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu5.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu5_error.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu6.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu6_error.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu7.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu7_error.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu8.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu8_error.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu9.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Menu9_error.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Phone_Numbers$1.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Phone_Numbers$2.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Phone_Numbers$3.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Phone_Numbers$4.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Phone_Numbers$5.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Phone_Numbers$6.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Phone_Numbers.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/R$attr.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/R$color.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/R$dimen.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/R$drawable.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/R$id.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/R$layout.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/R$menu.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/R$string.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/R$style.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/R.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/RSSFeeder$1.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/RSSFeeder$EfficientAdapter$ViewHolder.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/RSSFeeder$EfficientAdapter.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/RSSFeeder$Post.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/RSSFeeder$RSSHandler.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/RSSFeeder$SAXHelper.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/RSSFeeder$loadingTask.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/RSSFeeder.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Scene$1.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Scene$Cache.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Scene$CacheState.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Scene$CacheThread.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Scene$NotWeakReference.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Scene$Viewport.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/Scene.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/WebCamShow$1.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/WebCamShow$ImageDownloader.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/WebCamShow.class
+* out/production/LondonBusTubeNew_PubbedV5/com/tube/bus2/men1.gif
+* out/res-cache/
+* out/res-cache/LondonBusTubeNew_PubbedV5/
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-hdpi/
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-hdpi/btn_1_pressed.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-hdpi/btn_1_selected.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-hdpi/btn_2_pressed.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-hdpi/btn_2_selected.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-hdpi/btn_3.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-hdpi/btn_3_pressed.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-hdpi/btn_3_selected.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-hdpi/btn_bg_pressed.9.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-hdpi/btn_bg_selected.9.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-hdpi/icon.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-large/
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-large/icon.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-large/title_logo_default.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-large/title_logo_pressed.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-large/title_logo_selected.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-ldpi/
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-ldpi/icon.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-mdpi/
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-mdpi/icon.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-xlarge/
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-xlarge/icon.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-xlarge/title_logo_default.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-xlarge/title_logo_pressed.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable-xlarge/title_logo_selected.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/back_button.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/background_phone.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/call_now_32.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/colorstrip.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/ic_action_refresh.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/ic_action_refresh_sel.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/iconbb.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/iconfood.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/icongolf.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/iconhotel.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/iconshops.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/iconsurf.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/shang1.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/shang2.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/shang3.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/shang4.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/surf_icon.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/title_logo_default.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/title_logo_pressed.png
+* out/res-cache/LondonBusTubeNew_PubbedV5/drawable/title_logo_selected.png
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* lint.xml => app/lint.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
